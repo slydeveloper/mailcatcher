@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  example:
+    build: .
+    container_name: mailsender-test
+  mailcatcher:
+    image: slydeveloper/mailcatcher:latest
+    ports:
+      - "1025:1025"
+      - "1080:1080"
+    container_name: mailcatcher-service

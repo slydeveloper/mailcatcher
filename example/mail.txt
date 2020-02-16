@@ -1,0 +1,10 @@
+To: recipient@domain.com
+From: sender@domain.com
+Subject: Mail with subject
+Content-Type: text/html; charset="utf8"
+
+<html>
+<body>
+<h1>Example mail message</h1>
+</body>
+</html>

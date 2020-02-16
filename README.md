@@ -23,3 +23,7 @@ Details
 Usage
 --------
 ```docker run --rm -p 1080:1080 slydeveloper/mailcatcher```
+
+Screenshot
+-----
+![Screen](screen.png)
