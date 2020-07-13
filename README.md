@@ -22,7 +22,7 @@ Details
 
 Usage
 --------
-```docker run --rm -p 1080:1080 slydeveloper/mailcatcher```
+```docker run --rm -p 1025:1025 -p 1080:1080 slydeveloper/mailcatcher```
 
 Screenshot
 -----
